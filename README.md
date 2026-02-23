@@ -79,6 +79,9 @@ pip install -r requirements.txt
 Run the notebook:
 
 jupyter notebook
+
+--
+##
 🔮 Future Improvements
 
 Implement LSTM for advanced time-series forecasting
