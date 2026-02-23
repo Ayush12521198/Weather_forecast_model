@@ -68,23 +68,20 @@ Weather-Forecasting/
 
 ## ⚙️ Installation
 
-Clone the repository:
+### 1️⃣ Clone the repository
 
 ```bash
 git clone https://github.com/your-username/weather-forecasting-ml.git
 cd weather-forecasting-ml
 
-Install dependencies:
-
+Install dependencies
 pip install -r requirements.txt
 
-Run the notebook:
-
+Run the notebook
 jupyter notebook
+```
 
---
-##
-🔮 Future Improvements
+## Future Improvements
 
 Implement LSTM for advanced time-series forecasting
 
