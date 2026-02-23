@@ -59,9 +59,8 @@ It explores historical temperature trends, seasonal patterns, clustering behavio
 Weather-Forecasting/
 │
 ├── Weather.csv  
-├── weather_forecasting.ipynb  
+├── Untitled.ipynb
 ├── README.md  
-└── requirements.txt  
 ```
 
 ---
