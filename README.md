@@ -54,12 +54,12 @@ It explores historical temperature trends, seasonal patterns, clustering behavio
 ---
 
 ## 📂 Project Structure
-Weather-Forecasting/
+
+Weather_forecast_model/
 │
 ├── Weather.csv
-├── weather_forecasting.ipynb
+├── Untitled.ipynb.ipynb
 ├── README.md
-└── requirements.txt
 
 
 ---
